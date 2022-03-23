@@ -21,7 +21,6 @@ public class maxmin {
 		}
 		System.out.println("The minimum value of Array is: "+min);
 
-	}
-    hubvhjasbjh
+	}    
 
 }
